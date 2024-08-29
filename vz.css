@@ -1,0 +1,14 @@
+/* Custom Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: url('images/header-background.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+}
+
+footer {
+    background-color: #343a40;
+}
